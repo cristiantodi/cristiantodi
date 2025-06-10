@@ -22,13 +22,13 @@
 
 ## 📊 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresfuturo&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiantodi&layout=compact&langs_count=10&theme=radical)
 
 ---
 
 ## ⚡ Estadísticas de GitHub
 
-![Andresfuturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresfuturo&show_icons=true&theme=radical)
+![cristiantodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiantodi&show_icons=true&theme=radical)
 
 ---
 
